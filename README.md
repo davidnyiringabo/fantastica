@@ -1,1 +1,1 @@
-This repository is for fantastica project. 6
+This repository is for fantastica project. 1
